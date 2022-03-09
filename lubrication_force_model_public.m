@@ -8,9 +8,9 @@ Powder Technology, 2022
 
 contact: t.m.j.nijssen@tudelft.nl (Tim M.J. Nijssen)
 
-Tested with: MATLAB R2021b, GNU Octave 6.4.0
+Tested with: MATLAB R2021b and GNU Octave 6.4.0
 
-Delft University of Technology (NL), 25-02-2022
+Delft University of Technology (NL), 09-03-2022
 %}
 
 %% user-defined settings
