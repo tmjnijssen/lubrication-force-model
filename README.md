@@ -2,8 +2,9 @@
 
 Script companion to:
 
-A note on the modelling of lubrication forces in unresolved simulations
-Tim M.J. Nijssen, Marcel Ottens, Johan T. Padding
+**A note on the modelling of lubrication forces in unresolved simulations**
+
+*Tim M.J. Nijssen, Marcel Ottens, Johan T. Padding*
 
 Powder Technology, 2022
 
