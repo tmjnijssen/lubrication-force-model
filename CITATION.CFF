@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Nijssen"
+  given-names: "Tim M.J."
+  orcid: "https://orcid.org/0000-0002-2574-8547"
+- family-names: "Ottens"
+  given-names: "Marcel"
+- family-names: "Padding"
+  given-names: "Johan T."
+  orcid: "https://orcid.org/0000-0003-4161-0748"
+title: "Script companion to: A note on the modelling of lubrication forces in unresolved simulations"
+version: 1.0.0
+doi: 10.4121/19329365
+date-released: 2022-03-11
+url: "https://github.com/tmjnijssen/lubrication-force-model"
